@@ -3,16 +3,16 @@ package com.mycompany.proyectofinal2;
 
 public class RegistroError {
 private String archivoOrigen;
-private String datosOriginales;
-private String motivo;
+    private String registroOriginal;
+    private String motivoRechazo;
 
-public RegistroError(String archivoOrigen, String datosOriginales, String motivo){
-    this.archivoOrigen = archivoOrigen;
-    this.datosOriginales = datosOriginales;
-    this.motivo = motivo; 
-}
+    public RegistroError(String archivoOrigen, String registroOriginal, String motivoRechazo) {
+        this.archivoOrigen = archivoOrigen;
+        this.registroOriginal = registroOriginal;
+        this.motivoRechazo = motivoRechazo;
+    }
 
-public String getArchivoOrigen() {return archivoOrigen;}
-public String getDatosOriginales() {return datosOriginales;}
-public String getMotivo() {return motivo;}
+    public String getArchivoOrigen() { return archivoOrigen; }
+    public String getRegistroOriginal() { return registroOriginal; }
+    public String getMotivoRechazo() { return motivoRechazo; }
 }
