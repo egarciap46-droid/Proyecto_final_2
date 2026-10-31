@@ -1,4 +1,4 @@
-package com.ejemplo;
+package archivos.java;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
