@@ -1,0 +1,4 @@
+id,fecha,sucursal,codigo,producto,cantidad,precio,vendedor
+V001,2023-10-01,Sucursal A,P01,Monitor,2,150.50,Juan
+V002,2023-10-02,Sucursal B,P02,Teclado,5,20.00,Maria
+V003,2023-10-01,Sucursal A,P01,Monitor,-1,150.50,Juan 

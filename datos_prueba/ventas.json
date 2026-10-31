@@ -1,0 +1,22 @@
+[
+  {
+    "idVenta": "V007",
+    "fecha": "2023-11-01",
+    "sucursal": "Sucursal A",
+    "codigoProducto": "P07",
+    "producto": "Laptop",
+    "cantidad": 3,
+    "precioUnitario": 800.00,
+    "vendedor": "Lucia"
+  },
+  {
+    "idVenta": "V008",
+    "fecha": "2023-11-02",
+    "sucursal": "Sucursal B",
+    "codigoProducto": "P08",
+    "producto": "Webcam",
+    "cantidad": 0,
+    "precioUnitario": 50.00,
+    "vendedor": "Jose"
+  }
+]

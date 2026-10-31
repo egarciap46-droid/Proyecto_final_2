@@ -1,0 +1,22 @@
+<ventas>
+    <venta>
+        <id>V009</id>
+        <fecha>2023-12-01</fecha>
+        <sucursal>Sucursal A</sucursal>
+        <codigo>P09</codigo>
+        <producto>Microfono</producto>
+        <cantidad>4</cantidad>
+        <precio>45.00</precio>
+        <vendedor>Marta</vendedor>
+    </venta>
+    <venta>
+        <id>V010</id>
+        <fecha>2023-12-02</fecha>
+        <sucursal>Sucursal B</sucursal>
+        <codigo>P10</codigo>
+        <producto>Parlante</producto>
+        <cantidad>2</cantidad>
+        <precio>-10.00</precio>
+        <vendedor>Ricardo</vendedor>
+    </venta>
+</ventas>
