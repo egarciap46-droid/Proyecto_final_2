@@ -1,4 +1,4 @@
-package com.ejemplo;
+package archivos.java;
 
 public class RegistroError {
     private String archivoOrigen;
