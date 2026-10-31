@@ -1,4 +1,4 @@
-package com.ejemplo;
+package archivos.java;
 
 import java.sql.*;
 import java.util.List;
