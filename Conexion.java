@@ -1,4 +1,4 @@
-package archivos.java;
+package mycompany;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
